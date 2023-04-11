@@ -1,0 +1,6 @@
+oci==2.88.0
+pandas==1.4.4
+oracledb==1.1.1
+scikit-learn==1.1.2
+oracle-ads==2.6.8
+joblib==1.0.1
